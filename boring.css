@@ -139,7 +139,7 @@ iframe.illustration {
 
 pre,tt {
   font-family: 'Source Code Pro', monospace;
-  font-size: 16px;
+  font-size: 15px;
 }
 
 /* embedded text files need to be readable within the overall page, so
