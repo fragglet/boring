@@ -107,7 +107,7 @@ li {
 }
 /* "fancy" horizontal rule that only takes up a third of the page */
 hr {
-  border-color: #999;
+  border-color: black;
   border-style: dashed;
   border-bottom: none;
   width: 50%;
