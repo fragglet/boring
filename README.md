@@ -1,4 +1,4 @@
-*Eluhgunt* is a CSS stylesheet designed intended for publishing
+*Boring* is a CSS stylesheet designed intended for publishing
 nice-looking essays. It's intended to be pretty minimalistic and use
 some nice fonts.
 
