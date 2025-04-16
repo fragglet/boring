@@ -200,7 +200,7 @@ i,em {
  * dark background, we at least tone down the white background. */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #777777;
+    background-color: #888888;
     color: #000;
   }
   pre {
