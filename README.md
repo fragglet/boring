@@ -10,12 +10,3 @@ Features include:
   depending on the width of the display.
 * Nice selection of freely redistributable fonts.
 * Dark theme support
-
-## Example screenshots
-
-![Light mode example](example-article.png)
-
-![As seen on mobile device](example-mobile.png)
-
-![Dark mode](example-darkmode.png)
-
