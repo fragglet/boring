@@ -62,7 +62,7 @@ h1 {
 h2,h3,h4,h5 {
   font-weight: bold;
   font-variant-numeric: lining-nums;
-  color: #444;
+  color: #333;
   margin-top: 20px;
   margin-bottom: 10px;
   text-align: left;
@@ -118,7 +118,7 @@ hr {
 
 /* For quotations, we indent with a line to the left. */
 blockquote {
-  border-left: 2px solid #444;
+  border-left: 2px solid #333;
   margin-left: 15px;
   padding-left: 15px;
 }
