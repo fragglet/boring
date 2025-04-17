@@ -1,5 +1,7 @@
 *Boring* is a CSS stylesheet designed intended for simple websites.
 
+[See demo](https://boring.soulsphere.org/boring.html).
+
 Features include:
 
 * Styling for all the most common HTML elements: `h1` to `h6`, `ol`,
